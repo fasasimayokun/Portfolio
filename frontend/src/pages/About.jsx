@@ -46,7 +46,7 @@ const About = () => {
         <p className="mb-6 leading-relaxed text-justify">
           Currently, I’m exploring multiple languages including Java, C, C++, C#, Go, Ruby, and TypeScript through{" "}
           <span className="font-semibold text-indigo-600">SoloLearn</span>. I’ve proudly maintained a{" "}
-          <span className="font-semibold text-indigo-600">777-day streak</span> of consistent learning and code challenges.
+          <span className="font-semibold text-indigo-600">780-day streak</span> of consistent learning and still ongoing.
         </p>
 
         <p className="mb-6 leading-relaxed text-justify">
